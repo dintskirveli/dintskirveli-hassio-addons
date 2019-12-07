@@ -40,5 +40,5 @@
     "keyfile": "str",
     "ssl": "bool"
   },
-  "image": "dintskirveli/ledfx-{arch}"
+  "image": "dintskirveli/ledfx-{arch}:latest"
 }
